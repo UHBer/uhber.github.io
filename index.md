@@ -5,6 +5,6 @@
 
 ## Overview
 
-UHber 
+The UHber website aims to provide a user-friendly way to organize carpools for those traveling to/from the UH Manoa campus. 
 
 ## Pages
