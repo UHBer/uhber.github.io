@@ -7,7 +7,7 @@
 * [Marie Beth Calamasa](https://github.com/mcalamasa)
 * [Dylan Decker](https://github.com/dylandecker)
 * [Frendy Lio](https://github.com/frendylio)
-* [Kelsey Fukushima)(https://github.com/kryf)
+* [Kelsey Fukushima](https://github.com/kryf)
 
 ## Overview
 
