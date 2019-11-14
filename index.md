@@ -4,10 +4,10 @@
 * [Pages](#pages)
 
 ## Team
-* [Marie Beth Calamasa](https://github.com/mcalamasa)
-* [Dylan Decker](https://github.com/dylandecker)
-* [Frendy Lio](https://github.com/frendylio)
-* [Kelsey Fukushima](https://github.com/kryf)
+* [Marie Beth Calamasa](https://github.com/mcalamasa) (Web Developer)
+* [Dylan Decker](https://github.com/dylandecker) (Web Developer)
+* [Frendy Lio](https://github.com/frendylio) (Web Developer)
+* [Kelsey Fukushima](https://github.com/kryf) (Web Developer)
 
 ## Overview
 
