@@ -1,6 +1,6 @@
 title: UHber
 description: An app to provide UH students trusty carpool to and from school.
 google_analytics:
-show_downloads: true
+show_downloads: false
 
 theme: jekyll-theme-midnight
