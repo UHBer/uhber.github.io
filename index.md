@@ -11,6 +11,6 @@
 
 ## Overview
 
-The UHber website aims to provide a user-friendly way to organize carpools for those traveling to/from the UH Manoa campus. 
+The UHBer website aims to provide a user-friendly way to organize carpools for those traveling to/from the UH Manoa campus. The main idea of this project is to have two groups of users, Drivers and Riders. Drivers would be the people that will be driving and Riders will be the people that are riding the car. There will be a score system where you will pay with points. If you want to refill your points, you will need to drive. 
 
 ## Pages
