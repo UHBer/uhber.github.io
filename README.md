@@ -1,6 +1,6 @@
 ## UHber Website
 
-[UHber](https://uhber.github.io/) 
+[UHber](https://uhber.github.io/)
 
 ## Welcome to GitHub Pages
 
