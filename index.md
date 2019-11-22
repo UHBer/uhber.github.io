@@ -27,14 +27,14 @@ UHber will have several pages for the user to navigate through to ensure this ap
 ![](images/landingPage.png)
 This is the [landing page](http://uhber.meteorapp.com/#/) that users first see when they visit the site. 
 ### Sign In Page Mockup
-![](images/signInPageMockUp.png)
+![](images/signInPage.png)
 This is the basic [signin page](http://uhber.meteorapp.com/#/signin).
 ### Sign Up Page Mockup
-![](images/signUpMockUp.png)
+![](images/signUpPage.png)
 This is the [signup page](http://uhber.meteorapp.com/#/signup), we wanted to make the user input their names when they sign up just so their names would be on their profile until they decide to make their profile.
 ### User Landing Page Mockup
-![](images/userLandingPageMockUp.png)
-This is the [home page](http://uhber.meteorapp.com/#/) when the user logs in. Its the same as the regular landing page, but it provides the user with more options in the navbar.
+![](images/userLandingPage.png)
+This is the home page when the user logs in. Its the same as the regular landing page, but it provides the user with more options in the navbar.
 ### User Profile page Mockup
 ![](images/userProfilePageMockUp.png)
 This is the user's profile page. We might change it depending on what we want other users to see when they look at another users profile.
