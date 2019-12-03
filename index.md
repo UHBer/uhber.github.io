@@ -18,6 +18,7 @@ The UHBer website aims to provide a user-friendly way to organize carpools for t
 * [Deployment on Galaxy](https://galaxy.meteor.com/app/uhber.meteorapp.com)
 * [Milestone 1](https://github.com/UHBer/UHBer/projects/1)
 * [Milestone 2](https://github.com/UHBer/UHBer/projects/2)
+* [Milestone 3](https://github.com/UHBer/UHBer/projects/3)
 
 ## Walkthrough
 
@@ -45,3 +46,29 @@ This is the user's profile page. We might change it depending on what we want ot
 * [Dylan Decker](https://github.com/dylandecker) (Web Developer)
 * [Frendy Lio](https://github.com/frendylio) (Web Developer)
 * [Kelsey Fukushima](https://github.com/kryf) (Web Developer)
+
+## Developer Guide
+A small tutorial on how to run this application into your local machine.
+
+### Requirements
+[Meteor](https://www.meteor.com/install)
+[MongoDB](https://www.mongodb.com/)
+[Copy of UHBer Repository] (https://github.com/UHBer/UHBer)
+
+### Installation
+Using a shell program, for example, cmd; navigate to the app directory and run the following commands:
+
+```
+$ meteor npm install
+$ npm install react-avatar --save
+$ npm install prop-types --save
+```
+
+### Running the program
+Using a shell program, for example, cmd; navigate to the app directory and run the following commands:
+
+```
+$ meteor npm run start
+```
+
+Now, open your desire browser and go to [http://localhost:3000](http://localhost:3000)
