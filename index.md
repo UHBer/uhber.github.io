@@ -53,7 +53,7 @@ A small tutorial on how to run this application into your local machine.
 ### Requirements
 * [Meteor](https://www.meteor.com/install)
 * [MongoDB](https://www.mongodb.com/)
-* [Copy of UHBer Repository] (https://github.com/UHBer/UHBer)
+* [Copy of UHBer Repository](https://github.com/UHBer/UHBer)
 
 ### Installation
 Using a shell program, for example, cmd; navigate to the app directory and run the following commands:
