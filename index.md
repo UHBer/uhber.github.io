@@ -51,9 +51,9 @@ This is the user's profile page. We might change it depending on what we want ot
 A small tutorial on how to run this application into your local machine.
 
 ### Requirements
-[Meteor](https://www.meteor.com/install)
-[MongoDB](https://www.mongodb.com/)
-[Copy of UHBer Repository] (https://github.com/UHBer/UHBer)
+* [Meteor](https://www.meteor.com/install)
+* [MongoDB](https://www.mongodb.com/)
+* [Copy of UHBer Repository] (https://github.com/UHBer/UHBer)
 
 ### Installation
 Using a shell program, for example, cmd; navigate to the app directory and run the following commands:
