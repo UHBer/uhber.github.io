@@ -28,7 +28,7 @@ UHber will have several pages for the user to navigate through to ensure this ap
 ![](images/new-landing.PNG)
 This is the [landing page](http://uhber.meteorapp.com/#/) that users first see when they visit the site. 
 ### Sign In Page Mockup
-![](images/signInPage.png)
+![](images/new_signInPage.png)
 This is the basic [signin page](http://uhber.meteorapp.com/#/signin).
 ### Sign Up Page Mockup
 ![](images/signUpPage.png)
