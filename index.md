@@ -25,7 +25,7 @@ The UHBer website aims to provide a user-friendly way to organize carpools for t
 UHber will have several pages for the user to navigate through to ensure this app provides its users an easy way to create and maintain carpools. For now there are mock ups of the basic pages.
 
 ### Landing Page
-![](images/new-landing.png)
+![](images/new-landing.PNG)
 This is the [landing page](http://uhber.meteorapp.com/#/) that users first see when they visit the site. 
 ### Sign In Page Mockup
 ![](images/signInPage.png)
@@ -34,7 +34,7 @@ This is the basic [signin page](http://uhber.meteorapp.com/#/signin).
 ![](images/signUpPage.png)
 This is the [signup page](http://uhber.meteorapp.com/#/signup), we wanted to make the user input their names when they sign up just so their names would be on their profile until they decide to make their profile.
 ### User Landing Page Mockup
-![](images/new-userLanding.png)
+![](images/new-userLanding.PNG)
 This is the home page when the user logs in. Its the same as the regular landing page, but it provides the user with more options in the navbar.
 ### User Profile page Mockup
 ![](images/userProfilePageMockUp.png)
