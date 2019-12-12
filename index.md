@@ -60,8 +60,6 @@ Using a shell program, for example, cmd; navigate to the app directory and run t
 
 ```
 $ meteor npm install
-$ npm install react-avatar --save
-$ npm install prop-types --save
 ```
 
 ### Running the program
