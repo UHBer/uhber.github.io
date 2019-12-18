@@ -5,8 +5,8 @@
 * [Overview](#overview)
 * [Links](#links)
 * [Walkthrough](#walkthrough)
-* [Community Feedback](#community feedback)
-* [Developer Guide](#developer guide)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
 * [Team](#team)
 
 ## Overview
@@ -41,7 +41,7 @@ This is the home page when the user logs in. Its the same as the regular landing
 ![](images/userProfilePageMockUp.png)
 This is the user's profile page. We might change it depending on what we want other users to see when they look at another users profile.
 
-## Community Feedback
+## Community Feedback 
 
 
 ## Developer Guide
