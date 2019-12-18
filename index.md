@@ -5,6 +5,8 @@
 * [Overview](#overview)
 * [Links](#links)
 * [Walkthrough](#walkthrough)
+* [Community Feedback](#feedback)
+* [Developer Guide](#developerguide)
 * [Team](#team)
 
 ## Overview
@@ -21,7 +23,7 @@ The UHBer website aims to provide a user-friendly way to organize carpools for t
 
 ## Walkthrough
 
-UHber will have several pages for the user to navigate through to ensure this app provides its users an easy way to create and maintain carpools. For now there are mock ups of the basic pages.
+In order to view the current capabilities of the UHber website, the user should log in with the username: John@foo.com and password: changeme. 
 
 ### Landing Page
 ![](images/new-landing.PNG)
@@ -39,12 +41,8 @@ This is the home page when the user logs in. Its the same as the regular landing
 ![](images/userProfilePageMockUp.png)
 This is the user's profile page. We might change it depending on what we want other users to see when they look at another users profile.
 
-## Team
+## Community Feedback
 
-* [Marie Beth Calamasa](https://github.com/mcalamasa) (Web Developer)
-* [Dylan Decker](https://github.com/dylandecker) (Web Developer)
-* [Frendy Lio](https://github.com/frendylio) (Web Developer)
-* [Kelsey Fukushima](https://github.com/kryf) (Web Developer)
 
 ## Developer Guide
 A small tutorial on how to run this application into your local machine.
@@ -69,3 +67,11 @@ $ meteor npm run start
 ```
 
 Now, open your desire browser and go to [http://localhost:3000](http://localhost:3000)
+
+
+## Team
+
+* [Marie Beth Calamasa](https://github.com/mcalamasa) (Web Developer)
+* [Dylan Decker](https://github.com/dylandecker) (Web Developer)
+* [Frendy Lio](https://github.com/frendylio) (Web Developer)
+* [Kelsey Fukushima](https://github.com/kryf) (Web Developer)
