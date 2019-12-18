@@ -52,7 +52,7 @@ Users can view the rides available by accessing the "Available Rides" tab. Using
 ![](images/rides-page.PNG)
 
 ## Create Ride
-Users can create new rides by selecting the "Create Ride" tab. Here the user can select the starting location and destination for the ride, as well as the date and time.
+Users can create new rides by selecting the "Create Ride" tab. Here the user can select the starting location and destination for the ride, as well as the date and time. Using the dropdown button for origin and destination show the available cities to ensure the user is within range for rides (on Oahu). The dropdown button for date prompts a dropdown calendar so users are able to easily and accurately choose dates for their rides.
 
 ![](images/new-ride-page.PNG)
 
