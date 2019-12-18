@@ -29,23 +29,27 @@ In order to view the current capabilities of the UHber website, the user should 
 ![](images/new-landing2.PNG)
 This is the [landing page](http://uhber.meteorapp.com/#/) that users first see when they visit the site. 
 
-### Sign In Page Mockup
+### Sign-In Page
 ![](images/new_signInPage.png)
 This is the basic [signin page](http://uhber.meteorapp.com/#/signin).
 
-### Sign Up Page Mockup
+### Sign-Up Page 
 ![](images/signUpPage.png)
 This is the [signup page](http://uhber.meteorapp.com/#/signup), we wanted to make the user input their names when they sign up just so their names would be on their profile until they decide to make their profile.
 
-### User Landing Page Mockup
+### User Landing Page
 ![](images/new-userLanding2.PNG)
 Once the user has logged in, they will be able to view the user landing page which permits them to access more options in the navbar.
 
 ### User Profile 
-
 From the user landing page, the user may view their profile via the dropdown menu in the upper left corner. When on the profile page, the user has the ability to change their name, home city location, phone number, other forms of communication, and user type (whether they prefer to be a driver, rider, or both). As the users will ultimately be UH students, their email is uneditable as they must use their UH email when signing up for UHber. Once the user submits their input, their information is saved until they decide to re-edit it.
 
 ![](images/profile-page.PNG)
+
+## Available Rides
+Users can view the rides available by accessing the "Available Rides" tab. Using the search bar, the user can enter their desired city to view rides associated with it.
+
+![](images/rides-page.PNG)
 
 
 ## Community Feedback 
