@@ -51,6 +51,14 @@ Users can view the rides available by accessing the "Available Rides" tab. Using
 
 ![](images/rides-page.PNG)
 
+## Create Ride
+Users can create new rides by selecting the "Create Ride" tab. Here the user can select the starting location and destination for the ride, as well as the date and time.
+
+![](images/new-ride-page.PNG)
+
+## My Rides
+
+
 
 ## Community Feedback 
 
