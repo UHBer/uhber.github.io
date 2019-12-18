@@ -53,7 +53,27 @@ Users can view the rides available by accessing the "Available Rides" tab. Using
 
 
 ## Community Feedback 
+In this section, there is a summary of the feedback received for UHber.
 
+* When I tried to create a ride, it is really frustrating that I need to refresh the page if I make a mistake on it; the submit button just stays gray out.
+
+* The create your ride date section is really confusing to use, not user friendly at all.
+
+* On the my rides sections, if we a picture of the person of the type of car would be really helpful.
+
+* I don't like to see my email next to my icon image. A name would be better.
+
+* I like the name UHber.
+
+* How do I accept a ride?
+
+* I am not sure if I would like to carpool with a stranger, maybe if we could have a picture to see if they are nice or not would be nice.
+
+* I don't like the design of available rides page.
+
+* Nice car in the login page lol.
+
+* Nice website! I really like the idea to carpool with other students! 
 
 ## Developer Guide
 A small tutorial on how to run this application into your local machine.
