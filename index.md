@@ -5,8 +5,8 @@
 * [Overview](#overview)
 * [Links](#links)
 * [Walkthrough](#walkthrough)
-* [Community Feedback](#feedback)
-* [Developer Guide](#developerguide)
+* [Community Feedback](#community feedback)
+* [Developer Guide](#developer guide)
 * [Team](#team)
 
 ## Overview
