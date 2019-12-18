@@ -15,7 +15,6 @@ The UHBer website aims to provide a user-friendly way to organize carpools for t
 
 * [UHber Webpage](http://uhber.meteorapp.com/#/)
 * [UHber Organization Page](https://github.com/UHBer/)
-* [Deployment on Galaxy](https://galaxy.meteor.com/app/uhber.meteorapp.com)
 * [Milestone 1](https://github.com/UHBer/UHBer/projects/1)
 * [Milestone 2](https://github.com/UHBer/UHBer/projects/2)
 * [Milestone 3](https://github.com/UHBer/UHBer/projects/3)
