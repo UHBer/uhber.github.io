@@ -51,6 +51,15 @@ Users can view the rides available by accessing the "Available Rides" tab. Using
 
 ![](images/rides-page.PNG)
 
+## Create Ride
+Users can create new rides by selecting the "Create Ride" tab. Here the user can select the starting location and destination for the ride, as well as the date and time. Using the dropdown button for origin and destination show the available cities to ensure the user is within range for rides (on Oahu). The dropdown button for date prompts a dropdown calendar so users are able to easily and accurately choose dates for their rides.
+
+![](images/new-ride-page.PNG)
+
+## My Rides
+Users can view the rides they've added with the dropdown menu named "My Rides". By selecting "All Rides" the user can view all the rides assigned to them. The "Im driving" tab allows users to view rides where they have selected to be the driver for. Selecting the "Im riding" tab displays rides where the user has joined to ride.
+
+![](images/my-rides.PNG)
 
 ## Community Feedback 
 In this section, there is a summary of the feedback received for UHber.
