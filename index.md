@@ -26,7 +26,7 @@ The UHBer website aims to provide a user-friendly way to organize carpools for t
 In order to view the current capabilities of the UHber website, the user should log in with the username: John@foo.com and password: changeme. Upon visiting the UHber website, the user first sees the landing page below. The new users may choose to sign-up and returning users may choose to sign-in using the drop-down menu in the upper left corner of the website. 
 
 ### Landing Page
-![](images/new-landing.PNG)
+![](images/new-landing2.PNG)
 This is the [landing page](http://uhber.meteorapp.com/#/) that users first see when they visit the site. 
 
 ### Sign In Page Mockup
