@@ -57,8 +57,9 @@ Users can create new rides by selecting the "Create Ride" tab. Here the user can
 ![](images/new-ride-page.PNG)
 
 ## My Rides
+Users can view the rides they've added with the dropdown menu named "My Rides". By selecting "All Rides" the user can view all the rides assigned to them. The "Im driving" tab allows users to view rides where they have selected to be the driver for. Selecting the "Im riding" tab displays rides where the user has joined to ride.
 
-
+![](images/my-rides.PNG)
 
 ## Community Feedback 
 
