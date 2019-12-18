@@ -38,15 +38,15 @@ This is the basic [signin page](http://uhber.meteorapp.com/#/signin).
 This is the [signup page](http://uhber.meteorapp.com/#/signup), we wanted to make the user input their names when they sign up just so their names would be on their profile until they decide to make their profile.
 
 ### User Landing Page Mockup
-![](images/new-userLanding.PNG)
+![](images/new-userLanding2.PNG)
 Once the user has logged in, they will be able to view the user landing page which permits them to access more options in the navbar.
 
 ### User Profile 
 
 From the user landing page, the user may view their profile via the dropdown menu in the upper left corner. When on the profile page, the user has the ability to change their name, home city location, phone number, other forms of communication, and user type (whether they prefer to be a driver, rider, or both). As the users will ultimately be UH students, their email is uneditable as they must use their UH email when signing up for UHber. Once the user submits their input, their information is saved until they decide to re-edit it.
 
-![](images/userProfilePageMockUp.png)
-This is the user's profile page. We might change it depending on what we want other users to see when they look at another users profile.
+![](images/profile-page.PNG)
+
 
 ## Community Feedback 
 
