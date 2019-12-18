@@ -23,21 +23,28 @@ The UHBer website aims to provide a user-friendly way to organize carpools for t
 
 ## Walkthrough
 
-In order to view the current capabilities of the UHber website, the user should log in with the username: John@foo.com and password: changeme. 
+In order to view the current capabilities of the UHber website, the user should log in with the username: John@foo.com and password: changeme. Upon visiting the UHber website, the user first sees the landing page below. The new users may choose to sign-up and returning users may choose to sign-in using the drop-down menu in the upper left corner of the website. 
 
 ### Landing Page
 ![](images/new-landing.PNG)
 This is the [landing page](http://uhber.meteorapp.com/#/) that users first see when they visit the site. 
+
 ### Sign In Page Mockup
 ![](images/new_signInPage.png)
 This is the basic [signin page](http://uhber.meteorapp.com/#/signin).
+
 ### Sign Up Page Mockup
 ![](images/signUpPage.png)
 This is the [signup page](http://uhber.meteorapp.com/#/signup), we wanted to make the user input their names when they sign up just so their names would be on their profile until they decide to make their profile.
+
 ### User Landing Page Mockup
 ![](images/new-userLanding.PNG)
-This is the home page when the user logs in. Its the same as the regular landing page, but it provides the user with more options in the navbar.
-### User Profile page Mockup
+Once the user has logged in, they will be able to view the user landing page which permits them to access more options in the navbar.
+
+### User Profile 
+
+From the user landing page, the user may view their profile via the dropdown menu in the upper left corner. When on the profile page, the user has the ability to change their name, home city location, phone number, other forms of communication, and user type (whether they prefer to be a driver, rider, or both). As the users will ultimately be UH students, their email is uneditable as they must use their UH email when signing up for UHber. Once the user submits their input, their information is saved until they decide to re-edit it.
+
 ![](images/userProfilePageMockUp.png)
 This is the user's profile page. We might change it depending on what we want other users to see when they look at another users profile.
 
