@@ -37,6 +37,10 @@ This is the basic [signin page](http://uhber.meteorapp.com/#/signin).
 ![](images/signUpPage.png)
 This is the [signup page](http://uhber.meteorapp.com/#/signup), we wanted to make the user input their names when they sign up just so their names would be on their profile until they decide to make their profile.
 
+### Forgot Password
+
+Forgot your password? Not a problem at UHBer. Simply enter your email in the [form](http://uhber.meteorapp.com/#/forgot) and you'll receive a link to reset your password so you can resume carpooling!
+
 ### User Landing Page
 ![](images/new-userLanding2.PNG)
 Once the user has logged in, they will be able to view the user landing page which permits them to access more options in the navbar.
